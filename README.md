@@ -1,2 +1,2 @@
-# wislymanjate.github.io
+# wislymanjate
 github
